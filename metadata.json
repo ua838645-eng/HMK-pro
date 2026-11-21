@@ -1,0 +1,6 @@
+{
+  "name": "HMK Trading Inc. — Canadian Delivery & Logistics",
+  "description": "Enterprise Canadian delivery, freight bidding, company-provisioned driver dispatch, 4-digit PIN escrow, real-time tracking, CRA tax invoicing, and encrypted offline sync.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
